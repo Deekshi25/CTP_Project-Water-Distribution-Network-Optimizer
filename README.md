@@ -107,7 +107,7 @@ Low	130 units	130 units	₹700
 
 How to Run:
 -----------
-1. Clone the repository --> git clone https://github.com/Deekshi25/CTP_Project-Water-Distribution-Network-Optimizer.git
+1. Clone the repository --> git clone "your git_repository url"
 2. Open the project folder --> cd CTP_Project-Water-Distribution-Network-Optimizer
 3. Create a virtual environment --> python -m venv .venv
 4. Activate the virtual environment
